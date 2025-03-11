@@ -1,0 +1,67 @@
+[19:51:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:51:27] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[19:51:28] [ServerMain/INFO]: Loaded 7 recipes
+[19:51:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:51:29] [Server thread/INFO]: Loading properties
+[19:51:29] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[19:51:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:51:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:51:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:51:30] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:51:30] [Server thread/INFO]: Default game type: SURVIVAL
+[19:51:30] [Server thread/INFO]: Generating keypair
+[19:51:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:51:30] [Server thread/INFO]: Using epoll channel type
+[19:51:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:51:30] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:51:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:51:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:51:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:51:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:51:30] [Server thread/INFO]: Preparing level "world"
+[19:51:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:51:40] [Server thread/INFO]: Time elapsed: 202 ms
+[19:51:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:51:41] [Server thread/INFO]: Time elapsed: 117 ms
+[19:51:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:51:41] [Server thread/INFO]: Time elapsed: 66 ms
+[19:51:41] [Server thread/INFO]: Running delayed init tasks
+[19:51:41] [Server thread/INFO]: Done (11.654s)! For help, type "help"
+[19:51:41] [Server thread/INFO]: Timings Reset
+[19:52:04] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[19:52:20] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [-8, 6], pos: BlockPosition{x=-113, y=38, z=96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[19:52:24] [User Authenticator #0/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[19:52:24] [Server thread/INFO]: EmilioZpa joined the game
+[19:52:24] [Server thread/INFO]: EmilioZpa[/127.149.105.104:60909] logged in with entity id 207 at ([world]-22.5, 80.0, 7.5)
+[19:55:59] [Server thread/INFO]: EmilioZpa fell from a high place
+[19:56:09] [Server thread/INFO]: Made EmilioZpa a server operator
+[19:56:47] [User Authenticator #1/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[19:56:47] [Server thread/INFO]: Xxbraianproxx joined the game
+[19:56:47] [Server thread/INFO]: Xxbraianproxx[/127.200.184.160:47079] logged in with entity id 1431 at ([world]-22.5, 88.0, 21.5)
+[19:58:01] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[19:58:01] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[19:58:10] [Server thread/INFO]: Xxbraianproxx was slain by EmilioZpa
+[19:58:20] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[19:58:20] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[19:59:52] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:village_plains
+[19:59:53] [Server thread/INFO]: Locating element minecraft:village_plains took 792 ms
+[19:59:55] [Server thread/INFO]: EmilioZpa issued server command: /tp @s -704 ~ 272
+[19:59:57] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -703.500000, 73.000000, 272.500000]
+[19:59:57] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[19:59:57] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:00:00] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[20:00:00] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[20:00:07] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:00:07] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:00:15] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[20:00:15] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:00:21] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:00:21] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:00:23] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[20:00:23] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:00:34] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:00:34] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:00:36] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[20:00:36] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
