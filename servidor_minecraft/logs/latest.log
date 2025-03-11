@@ -45,3 +45,15 @@
 [22:21:12] [Server thread/INFO]: Xxbraianproxx[/127.200.184.160:47689] logged in with entity id 502 at ([world]176.17819977670086, 112.0, 61.22952683380039)
 [22:22:08] [Server thread/INFO]: Xxbraianproxx has made the advancement [Monster Hunter]
 [22:22:29] [Server thread/INFO]: Xxbraianproxx was doomed to fall by Skeleton
+[22:24:25] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:24:40] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[22:25:03] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:25:13] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[22:25:13] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:25:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:25:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:25:13] [Server thread/INFO]: Loaded 7 recipes
+[22:25:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:25:13] [Server thread/INFO]: CONSOLE: Reload complete.
+[22:25:13] [Server thread/INFO]: Timings Reset
+[22:29:12] [Server thread/INFO]: Xxbraianproxx drowned
