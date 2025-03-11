@@ -65,3 +65,63 @@
 [20:00:34] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
 [20:00:36] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
 [20:00:36] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[20:02:39] [Server thread/INFO]: EmilioZpa was slain by Iron Golem
+[20:03:35] [Server thread/INFO]: Xxbraianproxx was shot by Skeleton
+[20:03:38] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[20:03:38] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:03:53] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:03:53] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:03:54] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[20:03:54] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[20:04:13] [Async Chat Thread - #1/INFO]: [Not Secure] <EmilioZpa> nahh
+[20:04:40] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:04:40] [Server thread/INFO]: EmilioZpa left the game
+[20:05:15] [Server thread/INFO]: Xxbraianproxx has made the advancement [Acquire Hardware]
+[20:06:00] [Server thread/INFO]: Xxbraianproxx has made the advancement [Isn't It Iron Pick]
+[20:06:03] [Server thread/INFO]: Xxbraianproxx has made the advancement [Sweet Dreams]
+[20:07:35] [User Authenticator #2/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:07:35] [Server thread/INFO]: EmilioZpa joined the game
+[20:07:35] [Server thread/INFO]: EmilioZpa[/127.149.105.104:50227] logged in with entity id 4828 at ([world]-685.7733729325514, 72.0, 302.70827614302345)
+[20:07:44] [Server thread/INFO]: Xxbraianproxx has made the advancement [Stone Age]
+[20:07:58] [Server thread/INFO]: EmilioZpa fell from a high place
+[20:08:13] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[20:08:13] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[20:09:34] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[20:09:34] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[20:09:47] [Server thread/INFO]: EmilioZpa was slain by Xxbraianproxx
+[20:09:50] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[20:09:50] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[20:09:55] [Server thread/INFO]: Xxbraianproxx was slain by EmilioZpa
+[20:09:56] [Server thread/INFO]: EmilioZpa has made the advancement [Isn't It Iron Pick]
+[20:09:56] [Server thread/INFO]: EmilioZpa has made the advancement [Stone Age]
+[20:09:56] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:09:56] [Server thread/INFO]: EmilioZpa left the game
+[20:10:05] [User Authenticator #3/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:10:05] [Server thread/INFO]: EmilioZpa joined the game
+[20:10:05] [Server thread/INFO]: EmilioZpa[/127.149.105.104:57479] logged in with entity id 5497 at ([world]-716.6999999880791, 55.0, 276.30000001192093)
+[20:10:12] [Server thread/INFO]: EmilioZpa issued server command: /tp Xxbraianproxx EmilioZpa
+[20:10:12] [Server thread/INFO]: [EmilioZpa: Teleported Xxbraianproxx to EmilioZpa]
+[20:10:16] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:10:16] [Server thread/INFO]: EmilioZpa left the game
+[20:10:23] [User Authenticator #3/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:10:23] [Server thread/INFO]: EmilioZpa joined the game
+[20:10:23] [Server thread/INFO]: EmilioZpa[/127.149.105.104:37243] logged in with entity id 5534 at ([world]-716.6999999880791, 55.0, 276.30000001192093)
+[20:10:35] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:10:35] [Server thread/INFO]: EmilioZpa left the game
+[20:10:45] [User Authenticator #3/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:10:45] [Server thread/INFO]: EmilioZpa joined the game
+[20:10:45] [Server thread/INFO]: EmilioZpa[/127.149.105.104:43285] logged in with entity id 5595 at ([world]-716.6999999880791, 55.0, 276.30000001192093)
+[20:10:51] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:10:51] [Server thread/INFO]: EmilioZpa left the game
+[20:11:04] [User Authenticator #3/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:11:04] [Server thread/INFO]: EmilioZpa joined the game
+[20:11:04] [Server thread/INFO]: EmilioZpa[/127.149.105.104:49669] logged in with entity id 5641 at ([world]-716.6999999880791, 46.66342910256049, 276.30000001192093)
+[20:11:05] [Server thread/INFO]: EmilioZpa fell from a high place
+[20:11:18] [Async Chat Thread - #2/INFO]: [Not Secure] <EmilioZpa> bien ahi pa
+[20:11:23] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[20:11:23] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[20:11:29] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:11:29] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:11:33] [Async Chat Thread - #3/INFO]: [Not Secure] <EmilioZpa> chao
+[20:11:38] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[20:11:38] [Server thread/INFO]: EmilioZpa left the game
