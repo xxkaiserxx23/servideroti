@@ -125,3 +125,5 @@
 [00:18:31] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
 [00:24:11] [Server thread/INFO]: Villager EntityVillager['Villager'/6283, uuid='b754c49c-1c02-49e0-857e-e898904eb953', l='ServerLevel[world]', x=-681.33, y=72.56, z=322.48, cpos=[-43, 20], tl=11908, v=true] died, message: 'Villager was slain by Zombie'
 [00:57:47] [Server thread/INFO]: Villager EntityVillager['Farmer'/6278, uuid='667325b6-f8c9-43e9-886a-c47f24bc6d6b', l='ServerLevel[world]', x=-688.15, y=67.00, z=253.48, cpos=[-44, 15], tl=100946, v=true] died, message: 'Farmer was slain by Zombie'
+[01:08:31] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[01:08:31] [Server thread/INFO]: EmilioZpa left the game
