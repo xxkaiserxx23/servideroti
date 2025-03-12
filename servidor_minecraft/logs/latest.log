@@ -123,3 +123,4 @@
 [00:18:26] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
 [00:18:31] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
 [00:18:31] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[00:24:11] [Server thread/INFO]: Villager EntityVillager['Villager'/6283, uuid='b754c49c-1c02-49e0-857e-e898904eb953', l='ServerLevel[world]', x=-681.33, y=72.56, z=322.48, cpos=[-43, 20], tl=11908, v=true] died, message: 'Villager was slain by Zombie'
