@@ -1165,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-11 22:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-11 22:35:04 +0000"
@@ -1177,9 +1183,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_hay_block": "2025-03-11 22:34:36 +0000"
+      "has_emerald": "2025-03-12 00:11:29 +0000"
     },
     "done": true
   },

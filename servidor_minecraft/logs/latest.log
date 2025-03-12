@@ -49,3 +49,77 @@
 [00:10:40] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
 [00:10:59] [Async Chat Thread - #1/INFO]: [Not Secure] <EmilioZpa> d
 [00:11:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> gwb
+[00:11:26] [Async Chat Thread - #0/INFO]: [Not Secure] <EmilioZpa> se nota que los encerraste
+[00:11:31] [Server thread/INFO]: EmilioZpa has made the advancement [Sweet Dreams]
+[00:11:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> zzz
+[00:11:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> zz
+[00:11:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> zz
+[00:11:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> zz
+[00:11:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[00:11:44] [Server thread/INFO]: Xxbraianproxx lost connection: Kicked for spamming
+[00:11:44] [Server thread/INFO]: Xxbraianproxx left the game
+[00:12:02] [User Authenticator #2/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:12:02] [Server thread/INFO]: Xxbraianproxx joined the game
+[00:12:02] [Server thread/INFO]: Xxbraianproxx[/127.200.184.160:52543] logged in with entity id 4310 at ([world]-464.5, 78.0, -447.5)
+[00:12:21] [Server thread/INFO]: EmilioZpa issued server command: /kill
+[00:12:21] [Server thread/INFO]: EmilioZpa was killed
+[00:12:21] [Server thread/INFO]: [EmilioZpa: Killed EmilioZpa]
+[00:12:31] [Server thread/INFO]: EmilioZpa issued server command: /kill
+[00:12:31] [Server thread/INFO]: EmilioZpa was killed
+[00:12:31] [Server thread/INFO]: [EmilioZpa: Killed EmilioZpa]
+[00:12:40] [Server thread/INFO]: EmilioZpa issued server command: /kill
+[00:12:40] [Server thread/INFO]: EmilioZpa was killed
+[00:12:40] [Server thread/INFO]: [EmilioZpa: Killed EmilioZpa]
+[00:12:46] [Server thread/INFO]: EmilioZpa issued server command: /kill
+[00:12:46] [Server thread/INFO]: EmilioZpa was killed
+[00:12:46] [Server thread/INFO]: [EmilioZpa: Killed EmilioZpa]
+[00:12:47] [Server thread/WARN]: Xxbraianproxx was kicked due to keepalive timeout!
+[00:12:47] [Server thread/INFO]: Xxbraianproxx lost connection: Timed out
+[00:12:47] [Server thread/INFO]: Xxbraianproxx left the game
+[00:13:02] [Server thread/INFO]: EmilioZpa issued server command: /locate structure minecraft:village_plains
+[00:13:02] [Server thread/INFO]: Locating element minecraft:village_plains took 3 ms
+[00:13:04] [Server thread/INFO]: EmilioZpa issued server command: /tp @s -704 ~ 272
+[00:13:04] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -703.500000, 79.000000, 272.500000]
+[00:13:12] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[00:13:12] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[00:13:18] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[00:13:18] [Server thread/INFO]: Xxbraianproxx joined the game
+[00:13:18] [Server thread/INFO]: Xxbraianproxx[/127.200.184.160:48489] logged in with entity id 4894 at ([world]-464.5, 78.0, -447.5)
+[00:14:09] [Server thread/INFO]: EmilioZpa has made the advancement [Hot Stuff]
+[00:14:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xxbraianproxx> busca la tra aldea
+[00:14:14] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[00:14:14] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[00:15:00] [Server thread/INFO]: EmilioZpa has made the advancement [Acquire Hardware]
+[00:15:10] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/4545, uuid='011510a6-9506-45cf-8ce6-7ab551e13474', l='ServerLevel[world]', x=-674.33, y=69.00, z=264.84, cpos=[-43, 16], tl=50019, v=true] died, message: 'Leatherworker tried to swim in lava'
+[00:15:13] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/4547, uuid='6e3a0630-6aee-4a3f-af8e-fe667c828ed3', l='ServerLevel[world]', x=-671.67, y=68.72, z=267.87, cpos=[-42, 16], tl=50249, v=true] died, message: 'Leatherworker tried to swim in lava'
+[00:15:32] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/4552, uuid='171a40f1-996f-4dc1-8e57-8d593a7e6f2b', l='ServerLevel[world]', x=-669.96, y=69.50, z=265.83, cpos=[-42, 16], tl=50340, v=true] died, message: 'Leatherworker burned to death'
+[00:15:50] [Server thread/INFO]: Xxbraianproxx was slain by Iron Golem
+[00:16:31] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[00:16:31] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[00:16:36] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[00:16:36] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[00:16:48] [Server thread/INFO]: EmilioZpa issued server command: /tp @s -704 ~ 272
+[00:16:48] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to -703.500000, 80.732011, 272.500000]
+[00:16:50] [Server thread/WARN]: Xxbraianproxx was kicked due to keepalive timeout!
+[00:16:50] [Server thread/INFO]: Xxbraianproxx lost connection: Timed out
+[00:16:50] [Server thread/INFO]: Xxbraianproxx left the game
+[00:16:55] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[00:16:55] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[00:17:40] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[00:17:40] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[00:17:50] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[00:17:50] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[00:18:15] [Async Chat Thread - #4/INFO]: [Not Secure] <EmilioZpa> ff
+[00:18:26] [Server thread/INFO]: EmilioZpa issued server command: /gamemode creative
+[00:18:26] [Server thread/INFO]: [EmilioZpa: Set own game mode to Creative Mode]
+[00:18:31] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[00:18:31] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
